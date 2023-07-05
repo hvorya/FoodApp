@@ -1,3 +1,8 @@
+# Install MongoDB
+Add Mongod to the path https://www.mongodb.com/docs/mongodb-shell/install/
+npm i mongoose
+npm list mongoose
+mongod --version
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
