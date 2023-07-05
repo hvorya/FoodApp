@@ -1,7 +1,10 @@
 # Install MongoDB
 Add Mongod to the path https://www.mongodb.com/docs/mongodb-shell/install/
+
 npm i mongoose
+
 npm list mongoose
+
 mongod --version
 # Getting Started with Create React App
 
